@@ -10,7 +10,7 @@ python -m streamlit run main.py
 ```
 
 
-To access your streamlit application open new tab in and paste the url:
+To access streamlit application open new tab in and paste the url:
 ```
 https://yashhalwai-stock-market-prediction-system-main-pj8lao.streamlit.app/
 ```
